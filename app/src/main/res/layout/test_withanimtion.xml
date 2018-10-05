@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <demo.view.com.viewdemo.view.NewIncomeRingView
+        android:layout_width="@dimen/dp_230"
+        android:layout_height="@dimen/dp_230"
+        android:id="@+id/newIncomeRingView"
+        android:layout_gravity="center_vertical|center_horizontal"/>
+
+</LinearLayout>
